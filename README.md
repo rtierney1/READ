@@ -1,28 +1,29 @@
 # Ryan Tierney
  
-*Italicized*
-**BOLD**
+*3/4 Electrical Engineering Major*
+**EE322-A**
 
-## Unordered List
-- George Washington
-* John Adams
-+ Thomas Jefferson
+## Some of My Hobbies Include
+- Video Games
+* Basketball
++ Watching Movies
 
-## Ordered List
-1. George Washinton
-2. John Adams
-3. Thomas Jefferson
+## Top Three Foods
+1. Chimichanga
+2. Buffalo Chicken Wrap
+3. Tikka Malsala
 
 
 ---
-## Block Quote
-> Ryan Tierney
+## Best Quote
+> "I don't care that they stole my idea . . I care that they don't have any of their own"
+-Nikola Tesla
 
-## Code
-`Code`
+## First Code Ive Done
+`println("Hello World");`
 
-## Link
-[google](https://www.google.com)
+## The Link For My Team's Website Can Be Found Here
+[Google]([https://www.google.com](https://sites.google.com/d/133x4-KELIpF6b5Le0ElX6utSgZrrx8KM/p/11mKvKLr5Exv47Tj1Wbp_xv1OtdfcmXm6/edit))
 
 ## Image
 ![Stevens Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45GZEOnVrR5PVJeY95ao65QqnQBBs4HqO7pBe-cQeMg&s)
