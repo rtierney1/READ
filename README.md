@@ -23,7 +23,7 @@
 `println("Hello World");`
 
 ## The Link For My Team's Website Can Be Found Here
-[Google]([https://www.google.com](https://sites.google.com/d/133x4-KELIpF6b5Le0ElX6utSgZrrx8KM/p/11mKvKLr5Exv47Tj1Wbp_xv1OtdfcmXm6/edit))
+[Project Site](https://sites.google.com/stevens.edu/engineering-design-vi/)
 
 ## Image
 ![Stevens Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45GZEOnVrR5PVJeY95ao65QqnQBBs4HqO7pBe-cQeMg&s)
